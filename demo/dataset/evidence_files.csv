@@ -1,0 +1,5 @@
+file_id,file_path,captured_at
+demo_json,evidence/readbacks.json,2026-01-20T12:00:00Z
+demo_sql,evidence/marketing.sql,2026-01-20T12:00:00Z
+demo_log,evidence/lookups.log,2026-01-20T12:00:00Z
+demo_future,evidence/future.json,2026-02-02T00:00:00Z

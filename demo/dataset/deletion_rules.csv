@@ -1,0 +1,4 @@
+rule_id,data_category,condition,required_action
+demo_delete_profile,USER_PROFILE,Always,DELETE
+demo_delete_marketing,MARKETING_PROFILE,Always,DELETE
+demo_retain_backup,BACKUP_ARCHIVE,Restore access can be blocked,RETAIN

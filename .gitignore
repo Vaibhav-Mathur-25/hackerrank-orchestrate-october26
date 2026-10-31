@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.audit-cache/
+/dataset/
+/demo-output/
+/evaluation/runs/
+/output*.csv
+*.zip
+/log.txt
+*.log
+!/demo/dataset/evidence/lookups.log

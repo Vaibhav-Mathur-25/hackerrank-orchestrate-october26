@@ -1,0 +1,6 @@
+user_id,name,email,phone,email_hash,updated_at
+user_demoalpha,Demo Alpha,alpha@example.test,,,2026-01-05T00:00:00Z
+user_demobeta,Demo Beta,beta@example.test,,,2026-01-05T00:00:00Z
+user_demogamma,Demo Gamma,gamma@example.test,,,2026-01-05T00:00:00Z
+user_demodelta,Demo Delta,delta@example.test,,,2026-01-05T00:00:00Z
+user_demozeta,Demo Zeta,zeta@example.test,,,2026-01-05T00:00:00Z

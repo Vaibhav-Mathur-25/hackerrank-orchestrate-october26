@@ -1,0 +1,4 @@
+# Pins preserved from the challenge submission; fresh installation not reverified.
+pypdf==6.10.0
+Pillow==12.3.0
+# PNG evidence also requires a separately installed Tesseract executable.

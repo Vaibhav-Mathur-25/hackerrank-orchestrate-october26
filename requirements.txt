@@ -1,0 +1,2 @@
+# No third-party dependencies are needed for the synthetic demo or unit tests.
+# See requirements-documents.txt for the optional document extractors.

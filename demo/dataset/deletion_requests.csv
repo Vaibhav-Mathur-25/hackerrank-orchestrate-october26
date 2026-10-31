@@ -1,0 +1,7 @@
+case_id,email,requested_at,reported_status,reported_at,audit_at,request_text
+demo_changed_email,alpha.old@example.test,2026-01-10T00:00:00Z,COMPLETE,2026-01-11T00:00:00Z,2026-01-31T23:59:59Z,Please delete my account.
+demo_deleted,beta@example.test,2026-01-10T00:00:00Z,COMPLETE,2026-01-11T00:00:00Z,2026-01-31T23:59:59Z,Please delete my account.
+demo_disputed_owner,gamma@example.test,2026-01-10T00:00:00Z,COMPLETE,2026-01-11T00:00:00Z,2026-01-31T23:59:59Z,Please delete my account.
+demo_restore_unknown,delta@example.test,2026-01-10T00:00:00Z,COMPLETE,2026-01-11T00:00:00Z,2026-01-31T23:59:59Z,Please delete my account.
+demo_correction,correction@example.test,2026-01-10T00:00:00Z,COMPLETE,2026-01-11T00:00:00Z,2026-01-31T23:59:59Z,Please correct my surname without removing my records.
+demo_future_ignored,zeta@example.test,2026-01-10T00:00:00Z,COMPLETE,2026-01-11T00:00:00Z,2026-01-31T23:59:59Z,Please delete my account.

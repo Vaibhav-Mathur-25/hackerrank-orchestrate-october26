@@ -1,0 +1,12 @@
+{
+  "captured_at": "2026-02-02T00:00:00Z",
+  "records": [
+    {
+      "system": "account_service",
+      "resource_id": "profile_demozeta",
+      "record_type": "USER_PROFILE",
+      "result": "NOT_FOUND",
+      "user_id": "user_demozeta"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "captured_at": "2026-01-20T12:00:00Z",
+  "records": [
+    {
+      "system": "account_service",
+      "resource_id": "profile_demoalpha",
+      "record_type": "USER_PROFILE",
+      "result": "FOUND",
+      "user_id": "user_demoalpha"
+    },
+    {
+      "system": "account_service",
+      "resource_id": "profile_demogamma",
+      "record_type": "USER_PROFILE",
+      "result": "FOUND",
+      "user_id": "user_demogamma",
+      "email": "foreign@example.test"
+    },
+    {
+      "system": "account_service",
+      "resource_id": "profile_demodelta",
+      "record_type": "USER_PROFILE",
+      "result": "NOT_FOUND",
+      "user_id": "user_demodelta"
+    },
+    {
+      "system": "account_service",
+      "resource_id": "profile_demozeta",
+      "record_type": "USER_PROFILE",
+      "result": "FOUND",
+      "user_id": "user_demozeta"
+    },
+    {
+      "system": "backup_service",
+      "resource_id": "archive_demodelta",
+      "record_type": "BACKUP_ARCHIVE",
+      "result": "FOUND",
+      "user_id": "user_demodelta"
+    }
+  ]
+}
